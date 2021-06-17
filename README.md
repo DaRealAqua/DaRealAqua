@@ -1,10 +1,9 @@
 Hello👋, my name is DaRealAqua
 
 ```
-Coding Languages: PHP, SOON
+Coding Languages: PHP, MORE SOON
 
-
-Minecraft Servers:
+💻Minecraft Servers:
   BEDROCK:
     Levania Network: OWNER
      - IP: play.levania.eu
