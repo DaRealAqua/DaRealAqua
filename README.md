@@ -7,7 +7,7 @@ Hi there, I'm DaRealAqua
 [💻]Minecraft Servers:
   BEDROCK:
     Levania Network: OWNER
-     - IP: play.levania.eu
+     - IP: ``phpplay.levania.eu```
      - PORT: 19132
     AquaNation Network: DEVELOPER
 ```  
