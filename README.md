@@ -1,6 +1,12 @@
-Hello my name is DaRealAqua
+Hello👋, my name is DaRealAqua
 
-I'm the Owner of Levania Network MCPE Server
+```
+Coding Languages [PHP]
 
-IP: ```play.levania.eu```
-PORT: 19132
+
+Minecraft Servers:
+  Levania Network: OWNER
+   - IP: play.levania.eu
+   - PORT: 19132
+  AquaNation Network: DEVELOPER
+```  
