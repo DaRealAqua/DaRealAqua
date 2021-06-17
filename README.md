@@ -1,7 +1,7 @@
 Hello👋, my name is DaRealAqua
 
 ```
-Coding Languages [PHP]
+Coding Languages: PHP, SOON
 
 
 Minecraft Servers:
