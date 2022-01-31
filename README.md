@@ -4,6 +4,7 @@ Hi there, I'm DaRealAqua
 [💾]Coding Languages: 
 - PHP
 - HTML
+- CSS
 
 [💻]Minecraft Servers:
   BEDROCK:
