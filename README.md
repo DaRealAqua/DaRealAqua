@@ -1,4 +1,4 @@
-Hi, my name is DaRealAqua, I am an amateur developer and Gfx Designer (Photshop).
+Hi, my name is DaRealAqua, I am an amateur developer and gfx designer.
 ```
 [💾]Coding Languages: 
 - PHP
