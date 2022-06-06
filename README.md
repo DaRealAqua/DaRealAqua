@@ -1,4 +1,4 @@
-Hi there, I'm DaRealAqua
+Hi, my name is DaRealAqua, an amateur developer and Gfx artist in Photoshop.
 
 ```
 [💾]Coding Languages: 
