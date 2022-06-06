@@ -11,4 +11,5 @@ Hi, my name is DaRealAqua, an amateur developer and Gfx artist in Photoshop.
     Levania Network: OWNER
      - IP: play.levania.eu
      - PORT: 19132
+     - DISCORD: https://discord.levania.eu/
 ```  
