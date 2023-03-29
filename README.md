@@ -1,4 +1,4 @@
-Hi, my name is DaRealAqua, I am an amateur developer and gfx designer.
+Hi, my name is DaRealAqua, I'm an developer and gfx designer.
 ```
 [💾]Coding Languages: 
 - PHP
@@ -8,6 +8,9 @@ Hi, my name is DaRealAqua, I am an amateur developer and gfx designer.
   BEDROCK:
     Levania Network: OWNER
      - IP: play.levania.eu
-     - PORT: 19132
-     - DISCORD: https://discord.levania.eu/
+     - PORT: 19132 
+
+My Discord Servers:
+  LEVANIA (MCPE): https://discord.levania.eu/
+  AQUA DEVS (PMMP): https://discord.gg/AQ8THyqYAH
 ```  
