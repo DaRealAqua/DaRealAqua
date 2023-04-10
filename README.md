@@ -13,4 +13,7 @@
     <a href="https://discord.gg/VFFzjceP6E"><img src="https://img.icons8.com/color/35/null/discord--v2.png"></a>
   </p>
 <p>Feel free to check out my <a href="https://github.com/DaRealAqua">GitHub profile</a> to see more of my projects!</p>
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
 </div>
