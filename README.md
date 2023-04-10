@@ -15,5 +15,5 @@
 <p>Feel free to check out my <a href="https://github.com/DaRealAqua">GitHub profile</a> to see more of my projects!</p>
 
 ![DaRealAqua's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaRealAqua&show_icons=true&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealAqua&hide_progress=true)](https://github.com/DaRealAqua/github-readme-stats)
 </div>
