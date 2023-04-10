@@ -1,4 +1,5 @@
-Hi, my name is DaRealAqua, I'm an developer and gfx designer.
+Hi, my name is ``DaRealAqua``👋
+I'm a developer and gfx designer.
 
 ``
 [💾]Coding Languages:
