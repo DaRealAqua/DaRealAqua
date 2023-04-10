@@ -10,7 +10,6 @@
   <h2>🌐 Connect with Me</h2>
   <p>
     <a href="https://twitter.com/DaRealAqua_"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
-    <a href="[Instagram URL]"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
   </p>
 <p>Feel free to check out my <a href="https://github.com/DaRealAqua">GitHub profile</a> to see more of my projects!</p>
 </div>
