@@ -6,5 +6,12 @@
   <p>
     <img src="https://img.icons8.com/color/48/000000/php.png"/>
   </p>
-  <p>Feel free to check out my <a href="https://github.com/DaRealAqua">GitHub profile</a> to see more of my projects!</p>
+  
+  <h2>🌐 Connect with Me</h2>
+  <p>
+    <a href="https://twitter.com/DaRealAqua_"><img src="https://www.flaticon.com/free-icon/twitter_3670151?term=twitter&page=1&position=2&origin=search&related_id=3670151"/></a>
+    <a href="[Twitter URL]"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
+    <a href="[Instagram URL]"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
+  </p>
+<p>Feel free to check out my <a href="https://github.com/DaRealAqua">GitHub profile</a> to see more of my projects!</p>
 </div>
