@@ -5,10 +5,6 @@
   <h2>Skills</h2>
   <p>
     <img src="https://img.icons8.com/color/48/000000/php.png"/>
-    <--!<img src="https://img.icons8.com/color/48/000000/html-5.png"/>-->
-    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-    <img src="https://img.icons8.com/plasticine/48/000000/react.png"/>
-    <img src="https://img.icons8.com/color/48/000000/laravel.png"/>
   </p>
-  <p>Feel free to check out my <a href="https://github.com/johndoe">GitHub profile</a> to see more of my projects!</p>
+  <p>Feel free to check out my <a href="https://github.com/DaRealAqua">GitHub profile</a> to see more of my projects!</p>
 </div>
