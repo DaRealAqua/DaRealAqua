@@ -14,6 +14,6 @@
   </p>
 <p>Feel free to check out my <a href="https://github.com/DaRealAqua">GitHub profile</a> to see more of my projects!</p>
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![DaRealAqua's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaRealAqua&show_icons=true&theme=radical)
 
 </div>
