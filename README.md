@@ -1,7 +1,7 @@
 Hi, my name is DaRealAqua, I'm an developer and gfx designer.
 ```
 [💾]Coding Languages:
- [X] PHP
+ - PHP
 
 
 [🔗]My Discord Servers:
