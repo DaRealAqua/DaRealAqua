@@ -1,4 +1,4 @@
-# Hello there, my name is ``DaRealAqua``👋 
+# Hello, my name is Alex, also known as ``DaRealAqua``👋 
 
 
 ## Coding Languages:
