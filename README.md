@@ -10,7 +10,7 @@
   <h2>🌐 Connect with Me</h2>
   <p>
     <a href="https://twitter.com/DaRealAqua_"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
-    <a href=""><img src="https://icons8.com/icon/30998/discord.png"></a>
+    <a href=""><img src="https://img.icons8.com/color/48/null/discord--v2.png"></a>
   </p>
 <p>Feel free to check out my <a href="https://github.com/DaRealAqua">GitHub profile</a> to see more of my projects!</p>
 </div>
